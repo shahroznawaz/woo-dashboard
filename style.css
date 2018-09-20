@@ -1,0 +1,15 @@
+#large{
+    font-size: 50px;
+}
+
+.placeholder{
+    
+    margin-left: 10px;
+    width: 23.5%;
+    padding: 10px 15px;
+    border: 1px solid red;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    text-align: center;
+
+}
